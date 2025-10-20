@@ -1,6 +1,6 @@
 # 🎓 Educational Organisation using ServiceNow
 
-![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-blue) ![License](https://img.shields.io/badge/License-Academic-green)  
+![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-blue) 
 
 A **low-code solution for educational institutions** built on **ServiceNow** that automates student admissions, tracks academic progress, and centralizes data management.
 
@@ -111,6 +111,3 @@ Annamacharya Institute of Technology & Sciences, Tirupati
 
 ---
 
-## 📄 License
-
-This repository is for **educational and academic purposes only**.
